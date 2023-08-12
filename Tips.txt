@@ -1,0 +1,5 @@
+1. =A2&";"&B2&.......
+	this is done to add the values of all cells into a single row. This is then done for each row in the file containing values
+2. Ctrl + C, Shift + F10 + V
+	This command will let me manipulate the actual contents of the cell and not the formula used for the calulcations
+3. Then use "Text to Columns" to divide the data file into proper columns
